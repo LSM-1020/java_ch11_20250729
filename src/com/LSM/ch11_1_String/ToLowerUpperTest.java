@@ -21,5 +21,7 @@ public class ToLowerUpperTest {
 			System.out.println("두 문자열은 다르다");
 		}
 		
+		//equalsIgnoreCase -> 대소문자구분하지 않음, 이걸로쓰면 ture
+		
 }
 }
